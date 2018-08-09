@@ -1,7 +1,7 @@
 
 ## Para correr el sistema
 
-Abrir una terminal pen la carpeta raiz y correr 
+Abrir una terminal en la carpeta raiz del proyecto y ejecutar 
 
 `node server.js`
 
